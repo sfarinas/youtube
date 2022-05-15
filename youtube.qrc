@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="youtube">
+    <file>twitch.png</file>
+    <file>youtube.png</file>
+  </qresource>
+</RCC>
